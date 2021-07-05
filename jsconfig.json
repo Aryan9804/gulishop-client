@@ -1,3 +1,4 @@
+// 让@符之后能有路径提示
 {
   "compilerOptions": {
     "baseUrl": "./",
